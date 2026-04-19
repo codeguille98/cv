@@ -1,0 +1,37 @@
+figure {
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  
+}
+
+figcaption {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 5px;
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+.bandera{
+  max-width: 5%;
+  height: auto;
+  margin-left: 0;
+}
+
+
+area {
+  cursor: pointer;
+}
+
+section {
+  padding: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
